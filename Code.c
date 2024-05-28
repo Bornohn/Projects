@@ -1,7 +1,7 @@
 
 
 #include <stdio.h>
-
+#include <stdlb.h>
 #include <string.h>
 
 // Variable to keep track of number of students
